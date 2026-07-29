@@ -10,13 +10,13 @@
 - Letölthető CV, social linkek és FAQ
 
 ## How am I? this is my short bio
-Hi, My name is Csaba. I am an engineering manager at a software developer company. 
+Hi, I’m Csaba. I’m an engineering manager at a software development company.
 
-I have a beautiful family, I am a father of a 17 years old daughter, Nóra, and a 13 years old son, Balázs.
+I have a wonderful family: I’m the father of a 17-year-old daughter, Nóra, and a 13-year-old son, Balázs.
 
-I am an athlete, train for my body and my soul. 
+I’m an athlete — I train for both my body and my mind.
 
-Sometimes I need to feel the wind on my face, and clear my mind, then I ride on my yamaha tracer 7.
+Sometimes I need to feel the wind on my face and clear my mind. That’s when I ride my Yamaha Tracer 7.
 
 
 ## Projects  impacts
