@@ -9,7 +9,23 @@
 - Kapcsolatfelvételi lehetőség, CTA-val.
 - Letölthető CV, social linkek és FAQ
 
-## Rövid bemutatkozás és pozíciómegjelölés
+## How am I? this is my short bio
+Hi, My name is Csaba. I am an engineering manager at a software developer company. 
+
+I have a beautiful family, I am a father of a 17 years old daughter, Nóra, and a 13 years old son, Balázs.
+
+I am an athlete, train for my body and my soul. 
+
+Sometimes I need to feel the wind on my face, and clear my mind, then I ride on my yamaha tracer 7.
+
+
+## Projects  impacts
+
+### KKSZB Next - the new channel to get personal data from the state registers
+
+
+
+
 
 
 ## Ötletek:
