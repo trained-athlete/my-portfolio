@@ -28,7 +28,11 @@ Sometimes I need to feel the wind on my face and clear my mind. That’s when I 
 
 
 
+
+
 ## Ötletek:
+
+### Content
 Pozicionálás: Mivel a kkszb mikroszervizes release management tapasztalatod és az EM szerepkör iránti érdeklődésed is megjelenik a hátteredben, érdemes a portfóliót nem sima "frontend fejlesztő" pozícióra, hanem fejlesztő → tech lead/EM irányba növekvő szakember narratívára építeni. Ez megkülönböztet a sablonos junior-portfólióktól.
 
 1. Hero + bemutatkozás
@@ -58,3 +62,12 @@ Linkeld élőben a tabata-timer demót (GitHub Pages-en könnyen hostolható), p
 6. Kapcsolat + CTA
 
 E-mail, LinkedIn, letölthető CV – egyértelmű gomb, ahogy a plans.md-ben is szerepel.
+
+### Style
+
+Hasznájunk hozzá pseudo class-okat. Pl. amikor az egeret a linkjeim fölé viszem, akkor színeződjön el. Code snippet:
+```css
+a:hover {
+color: darkorange;
+}
+```
