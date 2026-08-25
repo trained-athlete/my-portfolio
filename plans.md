@@ -65,9 +65,13 @@ E-mail, LinkedIn, letölthető CV – egyértelmű gomb, ahogy a plans.md-ben is
 
 ### Style
 
+#### pseudo class
 Hasznájunk hozzá pseudo class-okat. Pl. amikor az egeret a linkjeim fölé viszem, akkor színeződjön el. Code snippet:
 ```css
 a:hover {
 color: darkorange;
 }
 ```
+
+#### multi class
+Használjunk multi class-t is. Vagyis a css file-ban definiáljunk egy ruleset-et egy class-ra, és azt a class-t adjuk hozzá a html file-ban néhány item property-jeként is. 
