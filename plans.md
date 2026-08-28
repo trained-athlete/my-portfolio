@@ -65,6 +65,10 @@ E-mail, LinkedIn, letölthető CV – egyértelmű gomb, ahogy a plans.md-ben is
 
 ### Style
 
+#### select html element by type, class or ID
+Használjuk az összes lehetséges selectort a style ruleset definiálása során.
+
+
 #### pseudo class
 Hasznájunk hozzá pseudo class-okat. Pl. amikor az egeret a linkjeim fölé viszem, akkor színeződjön el. Code snippet:
 ```css
@@ -72,6 +76,18 @@ a:hover {
 color: darkorange;
 }
 ```
-
 #### multi class
 Használjunk multi class-t is. Vagyis a css file-ban definiáljunk egy ruleset-et egy class-ra, és azt a class-t adjuk hozzá a html file-ban néhány item property-jeként is. 
+
+#### nested elements
+vegyünk fel olyan ruleset-et is a css file-ba, amelyben olyan selectort definiálunk, amelyet egy nested element-re mutat rá, pl. egy main alatt egy p type.
+
+#### multiple unrelated selectors
+Vegyünk fel olyan ruleset-et is a css file-ba, amely olyan selectort tartalmaz, amely több egymástól független elem stílusát képes definiálni. Itt majd vesszővel elválasztva kell felvenni ezeket a selectorokat a ruleset-hez.  
+
+#### jó példák
+https://mattfarley.ca/
+https://www.aherriot.com/
+https://joshuarogan.com/
+https://adambrady.ca/
+https://njgerner.com/
