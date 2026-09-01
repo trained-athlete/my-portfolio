@@ -1,7 +1,7 @@
 :root {
   --text: #202124;
   --background: #f7f5f0;
-  --accent: #d97706;
+  --accent: #2563eb;
 }
 
 * {
@@ -13,6 +13,10 @@ body {
   color: var(--text);
   background: var(--background);
   font-family: Georgia, serif;
+}
+
+section {
+  padding: 8rem 0;
 }
 
 a {

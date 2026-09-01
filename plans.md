@@ -91,3 +91,56 @@ https://www.aherriot.com/
 https://joshuarogan.com/
 https://adambrady.ca/
 https://njgerner.com/
+
+A vizsgált oldalakból a következő elemeket érdemes átvenni:
+Matt Farley: letisztult hero section, nagy whitespace, erős személyes brand.
+Andrew Herriot: vezetői tapasztalat + mérőszámok + projektek kiegyensúlyozott bemutatása.
+Joshua Rogan: storytelling és Engineering Leader pozicionálás.
+Adam Brady: minimalizmus, rövid szövegek, gyors áttekinthetőség.
+Nick Gerner: modern dark/light megközelítés, technológiai hitelesség.
+Ajánlott struktúra:
+01. Hero
+02. About Me
+03. Leadership Metrics
+04. Experience
+05. Featured Projects
+06. Skills
+07. Writing / Thoughts
+08. Contact
+
+#### Design alapelvek
+01. Sok whitespace
+02. Egyetlen hangsúlyszín
+03. Neutral Gray Palette
+    --bg: #ffffff;
+    --bg-secondary: #f8fafc;
+    --text: #0f172a;
+    --text-secondary: #475569;
+    --border: #e2e8f0;
+    --accent: #2563eb;
+04. Tipográfia
+    Font páros
+        Heading
+            font-family: "Inter", sans-serif;
+        Body
+            font-family: "Inter", sans-serif;
+05. Méretezés
+            h1 {
+                font-size: clamp(3rem, 8vw, 5rem);
+                font-weight: 800;
+                }
+
+            h2 {
+                font-size: 2.25rem;
+                font-weight: 700;
+                }
+
+            h3 {
+                font-size: 1.5rem;
+                font-weight: 600;
+                }
+
+            body {
+                font-size: 1.1rem;
+                line-height: 1.8;
+                }
