@@ -144,3 +144,37 @@ Ajánlott struktúra:
                 font-size: 1.1rem;
                 line-height: 1.8;
                 }
+
+## Style execution plan (beginner-friendly)
+
+Work through these steps in order. Make one small change at a time, save the file, refresh the browser, and check the result before moving on. Keep the first visual pass focused on the content already in the page; add missing portfolio content later, using only accurate information.
+
+1. **See the starting point.** Open `index.html` in a browser and note what is already present and what feels unfinished. Keep the page open so you can compare each change.
+    - Done when: you can see the current layout and identify the About, Projects, and Contact sections.
+
+2. **Fix the HTML foundation.** In `index.html`, correct the stylesheet path to `css/style.css`, put its link in the document head, close the hero paragraph, and make sure the page has a viewport declaration. Keep the existing section IDs so navigation links continue to work.
+    - Done when: the stylesheet loads and the navigation still jumps to the right sections.
+
+3. **Set the visual basics.** In `css/style.css`, define a restrained palette using the neutral colors and single accent above. Add CSS variables for repeated colors and spacing, choose a readable font stack, and set a comfortable line-height.
+    - Done when: text is easy to read and colors look consistent, even before adding decorative details.
+
+4. **Set content width and spacing.** Center the page content, limit the width of long text, and use consistent space between sections. Start with moderate values rather than fixed heights or very large margins.
+    - Done when: paragraphs are comfortable to read on desktop and sections feel clearly separated.
+
+5. **Style the header and navigation.** Make the existing links easy to scan and space them clearly. Add both a hover state and a visible keyboard-focus state.
+    - Done when: links are easy to find, work when clicked, and show a clear indicator when you press Tab.
+
+6. **Build a clear hero.** Make the name, role, and supporting sentence visually distinct. Constrain the paragraph width and make the main heading adjust to screen size with a responsive CSS value such as `clamp()`. Use the current truthful copy; do not invent metrics.
+    - Done when: a visitor can quickly understand who the site is about and what they do.
+
+7. **Style the existing sections consistently.** Give About and the other section headings a shared size and spacing system. Keep Projects, Skills, and Contact simple until their content is ready; avoid designing detailed cards for information that is not there yet.
+    - Done when: all existing sections feel like parts of one page.
+
+8. **Practice the CSS selectors from this plan.** Use element selectors for defaults, classes for reusable styles, IDs for existing one-off sections, and grouped selectors when elements share a rule. Use nested or multi-class selectors only when they make a real style easier to express. Include `:hover` and `:focus-visible` link states.
+    - Done when: each selector has a clear purpose and you can see which HTML elements it affects.
+
+9. **Check the mobile layout.** Narrow the browser to about 375px. Adjust navigation spacing, section padding, heading size, and any columns that feel cramped. Add a media query only when the layout needs a different arrangement on a smaller screen.
+    - Done when: there is no sideways scrolling, clipped text, or crowded navigation. Recheck the page at desktop width afterward.
+
+10. **Polish and verify.** Check color contrast, consistent spacing, all link destinations, and keyboard navigation at both mobile and desktop widths. In a later content pass, add truthful project case studies (problem, role, approach, challenge, result), skills, and working contact/social/CV links.
+     - Done when: the page looks coherent at both sizes and every visible interaction works. Do not present placeholder achievements, testimonials, or project outcomes as facts.
