@@ -149,10 +149,10 @@ Ajánlott struktúra:
 
 Work through these steps in order. Make one small change at a time, save the file, refresh the browser, and check the result before moving on. Keep the first visual pass focused on the content already in the page; add missing portfolio content later, using only accurate information.
 
-1. **See the starting point.** Open `index.html` in a browser and note what is already present and what feels unfinished. Keep the page open so you can compare each change.
+DONE - 1. **See the starting point.** Open `index.html` in a browser and note what is already present and what feels unfinished. Keep the page open so you can compare each change.
     - Done when: you can see the current layout and identify the About, Projects, and Contact sections.
 
-2. **Fix the HTML foundation.** In `index.html`, correct the stylesheet path to `css/style.css`, put its link in the document head, close the hero paragraph, and make sure the page has a viewport declaration. Keep the existing section IDs so navigation links continue to work.
+Done - 2. **Fix the HTML foundation.** In `index.html`, correct the stylesheet path to `css/style.css`, put its link in the document head, close the hero paragraph, and make sure the page has a viewport declaration. Keep the existing section IDs so navigation links continue to work.
     - Done when: the stylesheet loads and the navigation still jumps to the right sections.
 
 3. **Set the visual basics.** In `css/style.css`, define a restrained palette using the neutral colors and single accent above. Add CSS variables for repeated colors and spacing, choose a readable font stack, and set a comfortable line-height.
