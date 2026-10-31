@@ -3,6 +3,33 @@
 ## Mit tartalmazzon?
 - Rövid bemutatkozás és pozíciómegjelölés.
 - Válogatott projektek, mindenhol kontextussal, szereppel és eredménnyel.
+
+### ASP Önkormányzati szakrendszerek üzleti és IT Biztonsági Naplóelemző rendszere
+
+#### Kontextus 
+Az Önkormányzati ASP (Application Service Provider) program keretében olyan szakrendszerek készültek el, amelyek az önkormányzati működés különböző területein megteremtették a digitalizációt, és egyes esetekben elektronikus ügyintézést biztosítottak az állampolgárok számára. 
+
+A szakrendszerek nem funkcionális követelményei közé tartozott a felhasználói és automatikus műveletek naplózása, valamint a naplóadatok üzleti és IT-biztonsági célú elemzésének támogatása.
+
+Az én felelősségi körömbe tartozó szakrendszer feladata a naplók tárolása és a naplóelemzéshez szükséges funkciók biztosítása volt. 
+
+
+#### Az én szerepem és felelősségem a projektben
+
+
+#### Eredmények és tanulságok
+
+
+
+### ENAK - Egységes Napló és adattovábbítási nyilvántartásokat kezelő rendszer
+
+
+### KKSZB - Központi Kormányzati Szolgáltatási Busz modernizációja
+
+
+### KKSZB Next - A KKSZB továbbfejlesztése aszinkron szolgáltatás
+
+
 - Esettanulmányok, nem csak képek.
 - Referenciák vagy ügyfélvélemények.
 - Szolgáltatások vagy kompetenciák.
