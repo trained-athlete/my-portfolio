@@ -34,12 +34,7 @@ a.navbar-link {
 
 
 section {
-  padding: 50px 0;
-}
-
-#about {
-  padding-left: 25px;
-  padding-right: 25px;  
+  padding: 50px 25px;
 }
 
 #hero {
